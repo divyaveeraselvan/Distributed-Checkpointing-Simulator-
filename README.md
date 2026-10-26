@@ -1,1 +1,0 @@
-# Distributed-Checkpointing-Simulator-
